@@ -33,4 +33,6 @@ Run the code in Python!!!! you Noob
 .
 .
 
-##Shout out my Name :)
+## U can use my name:)
+## no hate bro....shut the fu***
+## love from india :)
