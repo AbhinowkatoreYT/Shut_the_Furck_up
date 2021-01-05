@@ -1,0 +1,33 @@
+user = input("enter you fu**ing name, and enter:")
+print("what i will do with you fu***ing name")
+print("just copy the link and paste it on your ass")
+
+a='h'
+b='t'
+c='t'
+d='p'
+e='s'
+f=':'
+g='/'
+h='/'
+i='y'
+j='o'
+k='u'
+l='t'
+m='u'
+n='.'
+o='b'
+p='e'
+q='/'
+r='d'
+s='Q'
+t='w'
+u='4'
+v='w'
+w='9'
+x='W'
+y='g'
+z='X'
+X='c'
+Y='Q'
+print(a+b+c+d+e+f+g+h+i+j+k+l+m+n+o+p+q+r+s+t+u+v+w+x+y+z+X+Y)
